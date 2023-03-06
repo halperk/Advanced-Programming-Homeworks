@@ -1,0 +1,17 @@
+CS201 Introduction_to_Programming 27116
+ECON201 Games_and_Strategies 28174
+Math101 Calculus 26098
+HUM202 Major_Works_of_Western_Art 28315
+CS201 Introduction_to_Programming 27013
+ECON204 Microeconomics 28029
+CS204 Advanced_Programming 27013
+CS204 Advanced_Programming 27956
+HUM202 Major_Works_of_Western_Art 28287
+CS204 Advanced_Programming 27881
+CS201 Introduction_to_Programming 28304
+Math101 Calculus 27956
+CS204 Advanced_Programming 26098
+ECON201 Games_and_Strategies 28287
+ECON201 Games_and_Strategies 28029
+HUM202 Major_Works_of_Western_Art 28174
+ENS211 Signals 28022
