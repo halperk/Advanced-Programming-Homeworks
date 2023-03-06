@@ -1,0 +1,12 @@
+34M: Istanbul Tekirdag Canakkale Balikesir Manisa Izmir
+48H: Antalya Mugla Denizli Aydin
+64U: Ankara Afyonkarahisar Usak Kutahya Bilecik Eskisehir
+35M: Izmir Aydin Denizli Burdur
+46S: Sivas Kayseri Nevsehir Nigde Konya Isparta Burdur
+43K: Antalya Mersin Adana Hatay Gaziantep Sanliurfa Mardin
+66U: Yozgat Kirsehir Nevsehir Kayseri Sivas Erzincan
+73V: Zonguldak Kastamonu Sinop Samsun Ordu Giresun Gumushane
+86L: Agri Kars Erzurum Mus Bitlis Van Hakkari
+13B: Siirt Mardin Diyarbakir Elazig Tunceli Erzincan
+16C: Tokat Yozgat Corum Cankiri Ankara Eskisehir
+18P: Istanbul Tekirdag Edirne
